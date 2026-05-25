@@ -79,4 +79,4 @@ Every domain follows `repo → service → handler` with a `Repository` interfac
 
 ## Authored by
 
-**Rohan Sah** — founding software engineer. Wrote the frontend, backend, and infrastructure end-to-end.
+[**Rohan Sah**](https://rohansah.dev)  — founding software engineer. Wrote the frontend, backend, and infrastructure end-to-end.
