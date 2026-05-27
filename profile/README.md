@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://orange-desert-0d758fb0f.7.azurestaticapps.net"><b>Live site →</b></a>
+  <a href="https://www.indusahfoundation.org"><b>Live site →</b></a>
 </p>
 
 ---
